@@ -5,12 +5,12 @@ I am a Student at Loyola University Chicago majoring in Computer Science
 
 ## Recent projects 
 - [Snake](https://github.com/davidludington/snake-raylibTest)
-- [Schedule maker](https://github.com/davidludington/halas_Mock_Schedule_maker)
 
 ## Recent classwork/class projects
 - [Operating Systems](https://github.com/davidludington/comp310-starter)
 - [Gym managment system](https://github.com/davidludington/c330-project)
 - [Data Structures and Algorithms](https://github.com/davidludington/Comp-272-)
+- [Algorithms](https://github.com/davidludington/comp363assignments)
 
 ## Contact 
 - [Linkedin](https://www.linkedin.com/in/david-ludington-903389249/)
