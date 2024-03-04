@@ -5,6 +5,7 @@ I am a Student at Loyola University Chicago majoring in Computer Science
 
 ## Recent projects 
 - [Snake](https://github.com/davidludington/snake-raylibTest)
+- [Schedule builder for School Recreation Center: Halas](https://github.com/davidludington/halas_Mock_Schedule_maker)
 
 ## Recent classwork/class projects
 - [Operating Systems](https://github.com/davidludington/comp310-starter)
