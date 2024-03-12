@@ -1,7 +1,7 @@
 # Hi there, I'm David Ludington 
 
 ## About me 
-I am a Student at Loyola University Chicago majoring in Computer Science 
+I am a Student at Loyola University Chicago studying Computer Science 
 
 ## Recent projects 
 - [Snake](https://github.com/davidludington/snake-raylibTest)
