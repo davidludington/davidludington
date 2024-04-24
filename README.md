@@ -11,9 +11,10 @@ I am a Student at Loyola University Chicago studying Computer Science
 ## Recent classwork/class projects
 - [Forth programing language implemented in C](https://github.com/davidludington/Forth)
 - [Operating Systems](https://github.com/davidludington/comp310-starter)
+- [Algorithms](https://github.com/davidludington/comp363assignments)
 - [Gym managment system](https://github.com/davidludington/c330-project)
 - [Data Structures and Algorithms](https://github.com/davidludington/Comp-272-)
-- [Algorithms](https://github.com/davidludington/comp363assignments)
+
 
 ## Contact 
 - [Linkedin](https://www.linkedin.com/in/david-ludington-903389249/)
