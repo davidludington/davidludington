@@ -8,12 +8,12 @@ I am a Student at Loyola University Chicago studying Computer Science
 - [Schedule builder for School Recreation Center: Halas](https://github.com/davidludington/halas_Mock_Schedule_maker)
 - [Ascii art](https://github.com/davidludington/image_to_ascii)
 
-## Recent classwork/class projects
+## Recent coursework/class projects
 - [Forth programing language implemented in C](https://github.com/davidludington/Forth)
-- [Operating Systems](https://github.com/davidludington/comp310-starter)
-- [Algorithms](https://github.com/davidludington/comp363assignments)
-- [Gym managment system](https://github.com/davidludington/c330-project)
-- [Data Structures and Algorithms](https://github.com/davidludington/Comp-272-)
+- [Comp 310 - Operating Systems](https://github.com/davidludington/comp310-starter)
+- [Comp 363 - Design and Analysis of Comper Algorithms](https://github.com/davidludington/comp363assignments)
+- [Comp 330 - Software engineering - Gym managment system](https://github.com/davidludington/c330-project)
+- [Comp 272 - Data Structures and Algorithms](https://github.com/davidludington/Comp-272-)
 
 
 ## Contact 
