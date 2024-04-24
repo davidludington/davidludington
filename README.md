@@ -11,6 +11,7 @@ I am a Student at Loyola University Chicago studying Computer Science
 ## Recent coursework/class projects
 - [Forth programing language implemented in C](https://github.com/davidludington/Forth)
 - [Comp 310 - Operating Systems](https://github.com/davidludington/comp310-starter)
+- [Comp 335 - Formal Methods of Sofware Engineering](https://github.com/davidludington/Comp335)
 - [Comp 363 - Design and Analysis of Comper Algorithms](https://github.com/davidludington/comp363assignments)
 - [Comp 330 - Software engineering - Gym managment system](https://github.com/davidludington/c330-project)
 - [Comp 272 - Data Structures and Algorithms](https://github.com/davidludington/Comp-272-)
