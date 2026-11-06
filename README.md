@@ -1,10 +1,12 @@
 # Hi there, I'm David Ludington 
 
 ## Recent projects 
+- [Bag pattern studio WIP](https://github.com/davidludington/bag-pattern-generator)
+- [Forth programing language implemented in C](https://github.com/davidludington/Forth)
 - [Snake](https://github.com/davidludington/snake-raylibTest)
 - [Schedule builder for School Recreation Center: Halas](https://github.com/davidludington/halas_Mock_Schedule_maker)
 - [Ascii art](https://github.com/davidludington/image_to_ascii)
-- [Forth programing language implemented in C](https://github.com/davidludington/Forth)
+
 
 ## Course Work
 - [Comp 310 - Operating Systems](https://github.com/davidludington/comp310-starter)
